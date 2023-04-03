@@ -14,52 +14,52 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "460691",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "9df7e0fe91329b0454552ee27dd14a45",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6255166842:AAE6GVvj5w6mRPYrwj-oGgCVA3hChm5Wsfs",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://hnyx:wywyw2@cluster0.9dxlslv.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ZedzeX Music",
+        "value": "❤️🔱🇷 🇦 🇻 🇦 🇳🔱 ❤️",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "2117051045",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "AQAHXjI6VKdayVByc23tSAWwfnO5Zh48lJCK8jQZdrnl0hMHH8UwkKzE6BVNFBs1YrGpSFLGxD5eAbf9HEMivbVJTTsLnxnpBlXyb8vnL7gbHgGvEGKDKjnaFdx1lM7ejY-l3OZO6JPqEaDPOqCslG36aT6aSENhW1jEO36IzoWvfhTpwtQS9CAgQY-IE2OmvLPkiIoSTMqoy-JjTc0xkObaEXLS2irB3WB4Nfs92EIf3CVC0rvsgwGR6NRe7HYHG_vLM4ZF23kFVpOO9PCVxmzPbSlH3Q3v7q4UxnEtUMsUXF9RNW0ZvuONEyEPB9iQiXVj0uQMYv3-WOJ816Q3QY41AAAAAVUQn3AA",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "3e470d23-f72b-439c-95d1-8c0d22d62968",
         "required": false
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app/bot's name",
-        "value": "",
+        "value": "sankiravan4200",
         "required": false
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1001728142297",
         "required": true
       }
     },
