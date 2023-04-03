@@ -61,7 +61,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽", url="https://t.me/unique_chat_world"
+                text="𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽", url="https://t.me/itz_friend_zone"
             ),
         ],
         [
